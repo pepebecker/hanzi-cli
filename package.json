@@ -1,0 +1,26 @@
+{
+  "name": "hanzi-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pepebecker/hanzi-cli.git"
+  },
+  "author": "Pepe Becker <mail@pepebecker.com> (http://pepebecker.com)",
+  "license": "ISC",
+  "bin": {
+    "hanzi": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pepebecker/hanzi-cli/issues"
+  },
+  "homepage": "https://github.com/pepebecker/hanzi-cli#readme",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "find-hanzi": "pepebecker/find-hanzi"
+  }
+}
