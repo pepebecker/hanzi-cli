@@ -21,6 +21,6 @@
   "homepage": "https://github.com/pepebecker/hanzi-cli#readme",
   "dependencies": {
     "argparse": "^1.0.9",
-    "find-hanzi": "pepebecker/find-hanzi"
+    "find-hanzi": "^1.0.2"
   }
 }
