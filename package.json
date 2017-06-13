@@ -8,7 +8,7 @@
     "url": "https://github.com/pepebecker/hanzi-cli.git"
   },
   "author": "Pepe Becker <mail@pepebecker.com> (http://pepebecker.com)",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "hanzi": "./index.js"
   },
